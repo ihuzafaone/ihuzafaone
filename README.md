@@ -5,17 +5,14 @@
 
 - 🔭 I’m currently working on **AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://huzaifaabid.netlify.app/](https://huzaifaabid.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://huzaifaabid.netlify.app/)
 
-- 💬 Ask me about **ML,AI,FastAPI,Flask,Django,React,NEXTJS,Angular**
 
 - 📫 How to reach me **huzaifa.abid50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ihuzafaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihuzafaone" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ihuzafaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuzafaone" height="30" width="40" /></a>
-<a href="https://kaggle.com/ihuzafaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ihuzafaone" height="30" width="40" /></a>
 <a href="https://fb.com/ihuzafasays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihuzafasays" height="30" width="40" /></a>
 <a href="https://instagram.com/iihuzafaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iihuzafaone" height="30" width="40" /></a>
 <a href="https://medium.com/@ihuzafaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihuzafaone" height="30" width="40" /></a>
