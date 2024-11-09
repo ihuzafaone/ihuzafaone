@@ -9,7 +9,7 @@
 
 ### 🔭 About Me
 - 🧠 Currently working on **AI Projects**
-- 👨‍💻 Check out my work on [My Portfolio](https://huzaifaabid.netlify.app/)
+- 👨‍💻 Check out my work on [My Portfolio](https://huzaifasbio.netlify.app/)
 - 📫 Reach me at **huzaifa.abid50@gmail.com**
 
 ---
